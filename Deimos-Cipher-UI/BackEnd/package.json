@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "clean": "rd /s /q node_modules && del package-lock.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "fs": "^0.0.1-security",
+    "multer": "^2.0.1",
+    "nan": "^2.22.2",
+    "next": "^15.3.5",
+    "node-addon-api": "^8.3.1",
+    "nodemailer": "^7.0.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "node-gyp": "^11.1.0"
+  }
+}
