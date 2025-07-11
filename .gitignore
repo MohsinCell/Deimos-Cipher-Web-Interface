@@ -1,3 +1,4 @@
+
 # ========================
 # Global OS & Editor Files
 # ========================
@@ -21,6 +22,14 @@ Deimos-Cipher-UI/BackEnd/.env.local
 Deimos-Cipher-UI/BackEnd/build/
 Deimos-Cipher-UI/BackEnd/Release/
 Deimos-Cipher-UI/BackEnd/*.log
+
+# Native build artifacts
+Deimos-Cipher-UI/BackEnd/*.node
+Deimos-Cipher-UI/BackEnd/*.obj
+Deimos-Cipher-UI/BackEnd/*.dll
+Deimos-Cipher-UI/BackEnd/*.lib
+Deimos-Cipher-UI/BackEnd/*.exp
+Deimos-Cipher-UI/BackEnd/*.pdb
 
 # ========================
 # React App (Frontend)
