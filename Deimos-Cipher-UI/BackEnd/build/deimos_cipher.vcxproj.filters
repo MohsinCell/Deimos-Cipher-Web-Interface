@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src\addon">
+      <UniqueIdentifier>{D4322C7C-EC74-82D5-5B4F-DFCB967526B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..\src\addon">
+      <UniqueIdentifier>{D4322C7C-EC74-82D5-5B4F-DFCB967526B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users">
+      <UniqueIdentifier>{E9F714C1-DA89-54E2-60CF-39FEB20BF756}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin">
+      <UniqueIdentifier>{D98AB653-0076-858C-C51D-9552F3825F5E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData">
+      <UniqueIdentifier>{F852EB63-437C-846A-220F-8D9ED6DAEC1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData\Roaming">
+      <UniqueIdentifier>{D51E5808-912B-5C70-4BB7-475D1DBFA067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData\Roaming\npm">
+      <UniqueIdentifier>{741E0E76-39B2-B1AB-9FA1-F1A20B16F295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData\Roaming\npm\node_modules">
+      <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData\Roaming\npm\node_modules\node-gyp">
+      <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Users\Mohsin\AppData\Roaming\npm\node_modules\node-gyp\src">
+      <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="..">
+      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface">
+      <UniqueIdentifier>{E89DFAB7-3B11-0363-01FF-C2D12483B56D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI">
+      <UniqueIdentifier>{1FED3407-4084-6808-172C-9C1F68980F69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd">
+      <UniqueIdentifier>{9AD69964-AB64-A841-A7B6-9109FA7650AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries">
+      <UniqueIdentifier>{91746794-0D1F-C637-2673-8F987201349D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable">
+      <UniqueIdentifier>{FA5F0705-2C00-A0C2-E42E-2005AB16E100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin">
+      <UniqueIdentifier>{11CC0371-6539-7E04-3B24-030E187A74AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64">
+      <UniqueIdentifier>{E075064C-529C-A4E7-0810-FB88D599C3BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release">
+      <UniqueIdentifier>{FF075A12-C1E5-B72E-66FE-329E5E401639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release\v143">
+      <UniqueIdentifier>{411052D0-95D4-1EA3-A9A2-F1C140E360E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release\v143\dynamic">
+      <UniqueIdentifier>{C1156036-BB76-BDF4-13E2-42EA313E0919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface">
+      <UniqueIdentifier>{E89DFAB7-3B11-0363-01FF-C2D12483B56D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI">
+      <UniqueIdentifier>{1FED3407-4084-6808-172C-9C1F68980F69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd">
+      <UniqueIdentifier>{9AD69964-AB64-A841-A7B6-9109FA7650AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries">
+      <UniqueIdentifier>{91746794-0D1F-C637-2673-8F987201349D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64">
+      <UniqueIdentifier>{48B709AC-C306-B25A-4953-4A9CCEAD3307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin">
+      <UniqueIdentifier>{11CC0371-6539-7E04-3B24-030E187A74AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface">
+      <UniqueIdentifier>{E89DFAB7-3B11-0363-01FF-C2D12483B56D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI">
+      <UniqueIdentifier>{1FED3407-4084-6808-172C-9C1F68980F69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd">
+      <UniqueIdentifier>{9AD69964-AB64-A841-A7B6-9109FA7650AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries">
+      <UniqueIdentifier>{91746794-0D1F-C637-2673-8F987201349D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64">
+      <UniqueIdentifier>{48B709AC-C306-B25A-4953-4A9CCEAD3307}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin">
+      <UniqueIdentifier>{11CC0371-6539-7E04-3B24-030E187A74AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\addon\binding.cc">
+      <Filter>..\src\addon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\addon\core.cpp">
+      <Filter>..\src\addon</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mohsin\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Users\Mohsin\AppData\Roaming\npm\node_modules\node-gyp\src</Filter>
+    </ClCompile>
+    <None Include="..\binding.gyp">
+      <Filter>..</Filter>
+    </None>
+    <None Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release\v143\dynamic\libsodium.dll">
+      <Filter>C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release\v143\dynamic</Filter>
+    </None>
+    <None Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin\libssl-3-x64.dll">
+      <Filter>C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin</Filter>
+    </None>
+    <None Include="C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin\libcrypto-3-x64.dll">
+      <Filter>C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin</Filter>
+    </None>
+  </ItemGroup>
+</Project>

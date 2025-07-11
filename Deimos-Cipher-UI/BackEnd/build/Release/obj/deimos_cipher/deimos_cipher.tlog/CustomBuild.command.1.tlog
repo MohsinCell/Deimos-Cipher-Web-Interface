@@ -1,0 +1,9 @@
+^C:\DEIMOS CIPHER WEB INTERFACE\DEIMOS-CIPHER-UI\BACKEND\LIBRARIES\LIBSODIUM-STABLE\BIN\X64\RELEASE\V143\DYNAMIC\LIBSODIUM.DLL
+call mkdir "..\build\Release" 2>nul & set ERRORLEVEL=0 & copy /Y "C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\libsodium-stable\bin\x64\Release\v143\dynamic\libsodium.dll" "..\build\Release\libsodium.dll"
+if %errorlevel% neq 0 exit /b %errorlevel%
+^C:\DEIMOS CIPHER WEB INTERFACE\DEIMOS-CIPHER-UI\BACKEND\LIBRARIES\OPENSSL-WIN64\BIN\LIBSSL-3-X64.DLL
+call mkdir "..\build\Release" 2>nul & set ERRORLEVEL=0 & copy /Y "C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin\libssl-3-x64.dll" "..\build\Release\libssl-3-x64.dll"
+if %errorlevel% neq 0 exit /b %errorlevel%
+^C:\DEIMOS CIPHER WEB INTERFACE\DEIMOS-CIPHER-UI\BACKEND\LIBRARIES\OPENSSL-WIN64\BIN\LIBCRYPTO-3-X64.DLL
+call mkdir "..\build\Release" 2>nul & set ERRORLEVEL=0 & copy /Y "C:\Deimos Cipher Web Interface\Deimos-Cipher-UI\BackEnd\libraries\OpenSSL-Win64\bin\libcrypto-3-x64.dll" "..\build\Release\libcrypto-3-x64.dll"
+if %errorlevel% neq 0 exit /b %errorlevel%

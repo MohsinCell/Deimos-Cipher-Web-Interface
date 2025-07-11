@@ -17,20 +17,6 @@ build-Release/
 dist/
 *.node
 
-# Native addon (node-gyp) intermediate files
-*.obj
-*.o
-*.dll
-*.exp
-*.lib
-*.so
-*.a
-*.pdb
-*.vcxproj*
-*.sln
-*.gyp
-*.gypi
-
 # Environment variables
 .env
 .env.local
